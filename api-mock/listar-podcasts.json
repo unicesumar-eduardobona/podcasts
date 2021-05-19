@@ -1,0 +1,15 @@
+[
+  {
+    "titulo": "Hipsters Ponto Tech",
+    "descricao": "O Hipsters Ponto Tech é o podcast onde o pessoal da Caelum e da Alura entra em discussões acaloradas sobre programação, design, ux, gadgets, startups e as últimas modinhas em tecnologia. Ah! E sempre com convidados. Saiba mais e participe do grupo no facebook",
+    "capa": "https://hipsters.tech/wp-content/uploads/2017/01/logo-hipsters-pontotech.svg",
+    "ultimaAtualizacao": "2021-05-18"
+  },
+  
+  {
+    "titulo": "Devs Cansados",
+    "descricao": "Está cansado dos problemas de programação e desenvolvimento no seu dia a dia? Então junte-se a nós",
+    "capa": "https://e-cdns-images.dzcdn.net/images/talk/49b89a282c70642a6fe10c5246a3f817/528x528-000000-80-0-0.jpg",
+    "ultimaAtualizacao": "2021-05-15"
+  }
+]
